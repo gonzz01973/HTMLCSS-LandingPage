@@ -33,7 +33,7 @@ section {
 .space-between {
     justify-content: space-between
 }
-.button{
+.btn{
     cursor: pointer;
     border: 0;
     padding: 6px 12px;
