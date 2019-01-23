@@ -269,7 +269,7 @@ section {
 }
 /* #endregion Module5*/
 /* #region Module6*/
-foter {
+footer {
     display: flex;
     flex-wrap: wrap;
     position: relative;
@@ -317,12 +317,13 @@ footer a:hover {
     background-size: 23px 23px;
     background-position: center;
 }
-.twitter {background-image: url('../img/svg');}
+.twitter {background-image: url('../img/twitter/svg');}
 .facebook {background-image: url('../img/facebook.svg');}
 .instagram {background-image: url('../img/instagram.svg');}
 .pinterest {background-image: url('../img/pinterest.svg');}
 .newsletter .link-header {
     font-style: 12px;
+    font-size: 12px;
     font-weight: 400;
     margin-bottom: 5px;
 }
@@ -334,6 +335,7 @@ footer a:hover {
 }
 .newsletter input {
     background-origin: 1px solid #364147;
+    border: 1px solid #364147;
     width: 200px;
     margin-bottom: 10px;
 }
